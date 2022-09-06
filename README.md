@@ -1,4 +1,4 @@
-# [Név]
+# Benedek Ákos Marcell
 
 
 ## Hogyan kezdj neki?
